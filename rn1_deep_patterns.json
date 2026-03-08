@@ -1,0 +1,127 @@
+{
+  "n_trades": 100001,
+  "types": {
+    "ou": 15140,
+    "esports": 21301,
+    "win": 26080,
+    "futures": 779,
+    "match": 26987,
+    "draw": 7599,
+    "spread": 1911,
+    "other": 180,
+    "unknown": 23
+  },
+  "price_medians": {
+    "ou": 0.470414,
+    "esports": 0.5,
+    "win": 0.459982,
+    "futures": 0.42,
+    "match": 0.489956,
+    "draw": 0.439855,
+    "spread": 0.4896,
+    "other": 0.479946,
+    "unknown": 0.560024
+  },
+  "size_medians": {
+    "ou": 4.3,
+    "esports": 10.35,
+    "win": 10.92,
+    "futures": 21.0,
+    "match": 19.92,
+    "draw": 8.57,
+    "spread": 6.3,
+    "other": 18.01,
+    "unknown": 49.45
+  },
+  "theory_fit": {
+    "cheap_no_pct": 65.5,
+    "cheap_no_vol_pct": 48.5,
+    "expensive_no_pct": 13.8
+  },
+  "accumulation": {
+    "unique_markets": 20746,
+    "trades_per_market_median": 2
+  },
+  "timing": {
+    "peak_hours": [
+      21,
+      20,
+      18
+    ],
+    "peak_days": [
+      "Saturday",
+      "Sunday",
+      "Friday"
+    ]
+  },
+  "sells": {
+    "total": 2029,
+    "profit_taking": 452,
+    "loss_cutting": 1028
+  },
+  "price_movement": {
+    "rising": 3990,
+    "falling": 4135,
+    "flat": 1116
+  },
+  "batching": {
+    "same_market_consecutive_pct": 2.8,
+    "median_burst": 2
+  },
+  "sample_match_titles": [
+    "Open Sud de France: Ugo Humbert vs Adrian Mannarino",
+    "Prudential Hong Kong Tennis Open: Cristina Bucsa vs Victoria Mboko",
+    "Celtics vs. Mavericks",
+    "Erste Bank Open: Daniil Medvedev vs Corentin Moutet",
+    "Open Sud de France: Adrian Mannarino vs Arthur Gea",
+    "Bucks vs. Timberwolves",
+    "Raptors vs. Lakers",
+    "Blue Jackets vs. Maple Leafs",
+    "Blue Jays vs. Yankees",
+    "Rotterdam Open: Quentin Halys vs Mees Rottgering",
+    "Brisbane International: Elena Rybakina vs Karolina Muchova",
+    "Australian Open Men's: Daniil Medvedev vs Fabian Marozsan",
+    "Clippers vs. Raptors",
+    "Padres vs. Cardinals",
+    "Syracuse vs. SMU Mustangs",
+    "Richmond Spiders vs. Furman Paladins",
+    "Deportivo Alav\u00e9s vs. Girona FC: Both Teams to Score",
+    "Celtics vs. Clippers",
+    "Rutgers vs. Washington",
+    "Clippers vs. Suns"
+  ],
+  "sample_esports_titles": [
+    "LoL: DRX vs T1 (BO3)",
+    "Counter-Strike: Morningstar vs The Huns Esports (BO3) - Zhi-Tech Elite Masters Playoffs",
+    "LoL: Anyone's Legend vs Weibo Gaming - Game 1 Winner",
+    "Counter-Strike: Spirit vs Vitality - Map 2 Winner",
+    "Counter-Strike: Galorys vs Keyd - Map 1 Winner",
+    "Counter-Strike: B8 vs paiN (BO3)",
+    "Counter-Strike: Vitality vs Team Falcons - Map 1 Winner",
+    "Dota 2: OG vs Team Yandex (BO3)",
+    "Valorant: Nova Esports vs Paper Rex (BO1)",
+    "Valorant: ULF Esports vs Team Vitality (BO3)",
+    "Counter-Strike: Vitality vs FaZe (BO1)",
+    "Counter-Strike: FUT Esports vs FURIA (BO3) - BLAST Bounty Qualifier",
+    "Counter-Strike: Gentle Mates vs 9INE (BO3) - IEM Rio: Global Closed Qualifier Playoffs",
+    "Counter-Strike: HOTU vs Altay Esports - Map 2 Winner",
+    "Counter-Strike: Vitality vs Virtus.pro (BO3)"
+  ],
+  "sample_ou_titles": [
+    "Club Tijuana vs. CF Am\u00e9rica: O/U 1.5",
+    "AS Roma vs. Cagliari Calcio: O/U 2.5",
+    "Fenerbah\u00e7e SK vs. Nottingham Forest FC: O/U 3.5",
+    "FC CFR 1907 Cluj vs. FC Metaloglobus Bucure\u0219ti: O/U 4.5",
+    "Dundee United FC vs. Heart of Midlothian FC: O/U 3.5",
+    "EC Vit\u00f3ria vs. CR Flamengo: O/U 3.5",
+    "Manchester City FC vs. Fulham FC: O/U 1.5",
+    "Wolverhampton Wanderers FC vs. Aston Villa FC: O/U 1.5",
+    "SS Lazio vs. SSC Napoli: O/U 2.5",
+    "Games Total: O/U 2.5",
+    "SC Internacional vs. SE Palmeiras: O/U 4.5",
+    "Mozambique vs. Cameroon: O/U 3.5",
+    "CA Rosario Central vs. CA Barracas Central: O/U 1.5",
+    "Udinese Calcio vs. AS Roma: O/U 1.5",
+    "Bills vs. Jaguars: O/U 51.5"
+  ]
+}

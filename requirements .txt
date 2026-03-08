@@ -1,0 +1,6 @@
+# Dry-run (no keys needed)
+requests>=2.28.0
+python-dotenv>=1.0.0
+
+# Live trading only (install separately when ready)
+# pip install py-clob-client

@@ -1,0 +1,16 @@
+18:09:27  INFO      ============================================================
+18:09:27  INFO        PolyCopy Bot starting up
+18:09:27  INFO      ============================================================
+18:09:27  INFO        Target wallet : 0x2005d16a84ceefa912d4e380cd32e7ff827875ea
+18:09:27  INFO        My wallet     : 0x_your_proxy_wallet_address_here
+18:09:27  INFO        Bet size      : $10.0 USDC per trade
+18:09:27  INFO        Max bet       : $100.0 USDC
+18:09:27  INFO        Min copy size : $5.0 USDC
+18:09:27  INFO        Poll interval : 2.0s
+18:09:27  INFO        DRY RUN       : True
+18:09:27  INFO      ============================================================
+18:09:27  INFO      ⚠  DRY RUN MODE — no real orders will be placed
+18:09:27  INFO         Change DRY_RUN=false in keys.env when ready to trade live
+18:09:27  INFO      ============================================================
+18:09:27  ERROR     Config error: PK not set in keys.env
+18:09:27  ERROR     Config error: PROXY_WALLET not set in keys.env

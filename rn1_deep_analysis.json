@@ -1,0 +1,1223 @@
+{
+  "full": {
+    "label": "all_trades",
+    "total": 1098591,
+    "counts": {
+      "buys": 1029000,
+      "sells": 21862,
+      "merges": 47729,
+      "other": 0
+    },
+    "sides": {
+      "buy_no": 1028717,
+      "buy_no_pct": 100.0,
+      "buy_yes": 0,
+      "buy_yes_pct": 0.0,
+      "sell_count": 21862,
+      "sell_rate_pct": 1.99
+    },
+    "volume": {
+      "total_buy_cost": 90432241.5,
+      "avg_cost": 87.97,
+      "total_sell_revenue": 17574074.95
+    },
+    "size_pctiles": {
+      "p10": 0.67,
+      "p25": 2.26,
+      "p50": 10.98,
+      "p75": 60.0,
+      "p90": 216.24,
+      "p95": 390.98,
+      "p99": 937.59,
+      "max": 64500.0
+    },
+    "price_dist": {
+      "penny_0-10": {
+        "count": 84433,
+        "pct": 8.2,
+        "total": 866971.1,
+        "avg": 10.27,
+        "med": 1.25
+      },
+      "low_10-20": {
+        "count": 89215,
+        "pct": 8.7,
+        "total": 2505403.58,
+        "avg": 28.08,
+        "med": 4.32
+      },
+      "mid_20-40": {
+        "count": 225790,
+        "pct": 21.9,
+        "total": 12536093.67,
+        "avg": 55.52,
+        "med": 7.14
+      },
+      "mid_40-60": {
+        "count": 267719,
+        "pct": 26.0,
+        "total": 26741222.26,
+        "avg": 99.89,
+        "med": 12.0
+      },
+      "fav_60-80": {
+        "count": 216298,
+        "pct": 21.0,
+        "total": 25785650.76,
+        "avg": 119.21,
+        "med": 17.5
+      },
+      "NC_80-90": {
+        "count": 84763,
+        "pct": 8.2,
+        "total": 12451389.32,
+        "avg": 146.9,
+        "med": 26.41
+      },
+      "heavyNC_90+": {
+        "count": 60782,
+        "pct": 5.9,
+        "total": 9545510.81,
+        "avg": 157.05,
+        "med": 37.6
+      }
+    },
+    "accumulation": {
+      "total_markets": 61854,
+      "single_buy_pct": 17.5,
+      "2_buys": 6923,
+      "3-5_buys": 12388,
+      "6-10_buys": 10160,
+      "10+_buys": 21565,
+      "max_buys": 1013
+    },
+    "date_range": {
+      "first": "2025-07-09",
+      "last": "2026-03-01",
+      "span_days": 235
+    },
+    "daily": {
+      "active_days": 235,
+      "avg_buys_per_day": 4378.7,
+      "avg_vol_per_day": 384818.05
+    },
+    "merges": {
+      "total": 47729,
+      "no_merges": 47726,
+      "yes_merges": 0,
+      "avg_merge_price": 0.0,
+      "total_merge_value": 136678752.49
+    },
+    "timing": {
+      "median_gap_sec": 6,
+      "mean_gap_sec": 28,
+      "under_1s_pct": 0.0,
+      "under_5s_pct": 48.0,
+      "under_60s_pct": 93.6,
+      "over_1hr_pct": 0.0
+    },
+    "peak_hours": {
+      "21": 97661,
+      "20": 94340,
+      "19": 80745
+    }
+  },
+  "first_1K_buys": {
+    "label": "first_1K_buys",
+    "total": 1136,
+    "counts": {
+      "buys": 1000,
+      "sells": 58,
+      "merges": 78,
+      "other": 0
+    },
+    "sides": {
+      "buy_no": 1000,
+      "buy_no_pct": 100.0,
+      "buy_yes": 0,
+      "buy_yes_pct": 0.0,
+      "sell_count": 58,
+      "sell_rate_pct": 5.11
+    },
+    "volume": {
+      "total_buy_cost": 8667.92,
+      "avg_cost": 8.67,
+      "total_sell_revenue": 2497.84
+    },
+    "size_pctiles": {
+      "p10": 1.2,
+      "p25": 3.0,
+      "p50": 8.0,
+      "p75": 12.2,
+      "p90": 17.2,
+      "p95": 18.24,
+      "p99": 39.0,
+      "max": 86.0
+    },
+    "price_dist": {
+      "penny_0-10": {
+        "count": 74,
+        "pct": 7.4,
+        "total": 74.38,
+        "avg": 1.01,
+        "med": 1.04
+      },
+      "low_10-20": {
+        "count": 93,
+        "pct": 9.3,
+        "total": 243.04,
+        "avg": 2.61,
+        "med": 2.6
+      },
+      "mid_20-40": {
+        "count": 205,
+        "pct": 20.5,
+        "total": 1151.27,
+        "avg": 5.62,
+        "med": 5.2
+      },
+      "mid_40-60": {
+        "count": 334,
+        "pct": 33.4,
+        "total": 3026.64,
+        "avg": 9.06,
+        "med": 9.6
+      },
+      "fav_60-80": {
+        "count": 166,
+        "pct": 16.6,
+        "total": 2056.26,
+        "avg": 12.39,
+        "med": 13.2
+      },
+      "NC_80-90": {
+        "count": 85,
+        "pct": 8.5,
+        "total": 1391.59,
+        "avg": 16.37,
+        "med": 17.0
+      },
+      "heavyNC_90+": {
+        "count": 43,
+        "pct": 4.3,
+        "total": 724.74,
+        "avg": 16.85,
+        "med": 18.2
+      }
+    },
+    "accumulation": {
+      "total_markets": 90,
+      "single_buy_pct": 21.1,
+      "2_buys": 15,
+      "3-5_buys": 17,
+      "6-10_buys": 16,
+      "10+_buys": 23,
+      "max_buys": 93
+    },
+    "date_range": {
+      "first": "2025-07-09",
+      "last": "2025-07-18",
+      "span_days": 9
+    },
+    "daily": {
+      "active_days": 9,
+      "avg_buys_per_day": 111.1,
+      "avg_vol_per_day": 963.1
+    },
+    "merges": {
+      "total": 78,
+      "no_merges": 78,
+      "yes_merges": 0,
+      "avg_merge_price": 0.0,
+      "total_merge_value": 13486.73
+    },
+    "timing": {
+      "median_gap_sec": 38,
+      "mean_gap_sec": 823,
+      "under_1s_pct": 0.0,
+      "under_5s_pct": 12.4,
+      "under_60s_pct": 59.1,
+      "over_1hr_pct": 3.1
+    },
+    "peak_hours": {
+      "15": 173,
+      "16": 172,
+      "17": 170
+    }
+  },
+  "buys_1K-2K": {
+    "label": "buys_1K-2K",
+    "total": 1209,
+    "counts": {
+      "buys": 1000,
+      "sells": 49,
+      "merges": 160,
+      "other": 0
+    },
+    "sides": {
+      "buy_no": 1000,
+      "buy_no_pct": 100.0,
+      "buy_yes": 0,
+      "buy_yes_pct": 0.0,
+      "sell_count": 49,
+      "sell_rate_pct": 4.05
+    },
+    "volume": {
+      "total_buy_cost": 9942.69,
+      "avg_cost": 9.94,
+      "total_sell_revenue": 2011.94
+    },
+    "size_pctiles": {
+      "p10": 0.43,
+      "p25": 1.89,
+      "p50": 5.83,
+      "p75": 14.4,
+      "p90": 24.0,
+      "p95": 31.67,
+      "p99": 53.0,
+      "max": 255.0
+    },
+    "price_dist": {
+      "penny_0-10": {
+        "count": 162,
+        "pct": 16.2,
+        "total": 135.85,
+        "avg": 0.84,
+        "med": 0.44
+      },
+      "low_10-20": {
+        "count": 74,
+        "pct": 7.4,
+        "total": 217.19,
+        "avg": 2.93,
+        "med": 1.9
+      },
+      "mid_20-40": {
+        "count": 232,
+        "pct": 23.2,
+        "total": 1395.78,
+        "avg": 6.02,
+        "med": 4.02
+      },
+      "mid_40-60": {
+        "count": 249,
+        "pct": 24.9,
+        "total": 3204.18,
+        "avg": 12.87,
+        "med": 9.0
+      },
+      "fav_60-80": {
+        "count": 158,
+        "pct": 15.8,
+        "total": 2339.06,
+        "avg": 14.8,
+        "med": 12.6
+      },
+      "NC_80-90": {
+        "count": 68,
+        "pct": 6.8,
+        "total": 1611.16,
+        "avg": 23.69,
+        "med": 17.02
+      },
+      "heavyNC_90+": {
+        "count": 57,
+        "pct": 5.7,
+        "total": 1039.47,
+        "avg": 18.24,
+        "med": 18.0
+      }
+    },
+    "accumulation": {
+      "total_markets": 165,
+      "single_buy_pct": 20.6,
+      "2_buys": 23,
+      "3-5_buys": 45,
+      "6-10_buys": 34,
+      "10+_buys": 29,
+      "max_buys": 30
+    },
+    "date_range": {
+      "first": "2025-07-18",
+      "last": "2025-07-24",
+      "span_days": 5
+    },
+    "daily": {
+      "active_days": 7,
+      "avg_buys_per_day": 142.9,
+      "avg_vol_per_day": 1420.38
+    },
+    "merges": {
+      "total": 160,
+      "no_merges": 160,
+      "yes_merges": 0,
+      "avg_merge_price": 0.0,
+      "total_merge_value": 22948.6
+    },
+    "timing": {
+      "median_gap_sec": 60,
+      "mean_gap_sec": 470,
+      "under_1s_pct": 0.0,
+      "under_5s_pct": 8.8,
+      "under_60s_pct": 49.7,
+      "over_1hr_pct": 1.7
+    },
+    "peak_hours": {
+      "1": 183,
+      "20": 77,
+      "2": 74
+    }
+  },
+  "buys_2K-5K": {
+    "label": "buys_2K-5K",
+    "total": 3640,
+    "counts": {
+      "buys": 3000,
+      "sells": 48,
+      "merges": 592,
+      "other": 0
+    },
+    "sides": {
+      "buy_no": 3000,
+      "buy_no_pct": 100.0,
+      "buy_yes": 0,
+      "buy_yes_pct": 0.0,
+      "sell_count": 48,
+      "sell_rate_pct": 1.32
+    },
+    "volume": {
+      "total_buy_cost": 63985.47,
+      "avg_cost": 21.36,
+      "total_sell_revenue": 3724.74
+    },
+    "size_pctiles": {
+      "p10": 1.47,
+      "p25": 4.55,
+      "p50": 14.95,
+      "p75": 30.1,
+      "p90": 53.0,
+      "p95": 67.0,
+      "p99": 87.0,
+      "max": 186.0
+    },
+    "price_dist": {
+      "penny_0-10": {
+        "count": 172,
+        "pct": 5.7,
+        "total": 395.17,
+        "avg": 2.3,
+        "med": 1.6
+      },
+      "low_10-20": {
+        "count": 238,
+        "pct": 7.9,
+        "total": 1627.91,
+        "avg": 6.84,
+        "med": 5.95
+      },
+      "mid_20-40": {
+        "count": 779,
+        "pct": 26.0,
+        "total": 10425.88,
+        "avg": 13.38,
+        "med": 11.5
+      },
+      "mid_40-60": {
+        "count": 851,
+        "pct": 28.4,
+        "total": 19067.83,
+        "avg": 22.41,
+        "med": 20.5
+      },
+      "fav_60-80": {
+        "count": 639,
+        "pct": 21.3,
+        "total": 19990.47,
+        "avg": 31.28,
+        "med": 27.2
+      },
+      "NC_80-90": {
+        "count": 223,
+        "pct": 7.4,
+        "total": 8448.02,
+        "avg": 37.88,
+        "med": 29.4
+      },
+      "heavyNC_90+": {
+        "count": 98,
+        "pct": 3.3,
+        "total": 4030.19,
+        "avg": 41.12,
+        "med": 45.0
+      }
+    },
+    "accumulation": {
+      "total_markets": 359,
+      "single_buy_pct": 14.2,
+      "2_buys": 44,
+      "3-5_buys": 74,
+      "6-10_buys": 100,
+      "10+_buys": 90,
+      "max_buys": 54
+    },
+    "date_range": {
+      "first": "2025-07-24",
+      "last": "2025-08-05",
+      "span_days": 13
+    },
+    "daily": {
+      "active_days": 13,
+      "avg_buys_per_day": 230.8,
+      "avg_vol_per_day": 4921.96
+    },
+    "merges": {
+      "total": 592,
+      "no_merges": 592,
+      "yes_merges": 0,
+      "avg_merge_price": 0.0,
+      "total_merge_value": 147053.39
+    },
+    "timing": {
+      "median_gap_sec": 48,
+      "mean_gap_sec": 375,
+      "under_1s_pct": 0.0,
+      "under_5s_pct": 9.5,
+      "under_60s_pct": 54.6,
+      "over_1hr_pct": 1.3
+    },
+    "peak_hours": {
+      "18": 458,
+      "17": 284,
+      "20": 266
+    }
+  },
+  "buys_5K-10K": {
+    "label": "buys_5K-10K",
+    "total": 5992,
+    "counts": {
+      "buys": 5000,
+      "sells": 430,
+      "merges": 562,
+      "other": 0
+    },
+    "sides": {
+      "buy_no": 5000,
+      "buy_no_pct": 100.0,
+      "buy_yes": 0,
+      "buy_yes_pct": 0.0,
+      "sell_count": 430,
+      "sell_rate_pct": 7.18
+    },
+    "volume": {
+      "total_buy_cost": 167253.98,
+      "avg_cost": 33.46,
+      "total_sell_revenue": 45578.21
+    },
+    "size_pctiles": {
+      "p10": 0.75,
+      "p25": 3.2,
+      "p50": 16.51,
+      "p75": 49.0,
+      "p90": 83.0,
+      "p95": 128.0,
+      "p99": 197.5,
+      "max": 320.0
+    },
+    "price_dist": {
+      "penny_0-10": {
+        "count": 562,
+        "pct": 11.2,
+        "total": 1971.42,
+        "avg": 3.51,
+        "med": 1.56
+      },
+      "low_10-20": {
+        "count": 629,
+        "pct": 12.6,
+        "total": 6081.66,
+        "avg": 9.67,
+        "med": 5.98
+      },
+      "mid_20-40": {
+        "count": 1128,
+        "pct": 22.6,
+        "total": 23838.63,
+        "avg": 21.13,
+        "med": 16.13
+      },
+      "mid_40-60": {
+        "count": 1061,
+        "pct": 21.2,
+        "total": 39492.71,
+        "avg": 37.22,
+        "med": 36.21
+      },
+      "fav_60-80": {
+        "count": 1031,
+        "pct": 20.6,
+        "total": 55739.71,
+        "avg": 54.06,
+        "med": 48.97
+      },
+      "NC_80-90": {
+        "count": 405,
+        "pct": 8.1,
+        "total": 24983.82,
+        "avg": 61.69,
+        "med": 49.84
+      },
+      "heavyNC_90+": {
+        "count": 184,
+        "pct": 3.7,
+        "total": 15146.03,
+        "avg": 82.32,
+        "med": 60.67
+      }
+    },
+    "accumulation": {
+      "total_markets": 598,
+      "single_buy_pct": 12.7,
+      "2_buys": 62,
+      "3-5_buys": 150,
+      "6-10_buys": 149,
+      "10+_buys": 161,
+      "max_buys": 52
+    },
+    "date_range": {
+      "first": "2025-08-05",
+      "last": "2025-08-19",
+      "span_days": 14
+    },
+    "daily": {
+      "active_days": 15,
+      "avg_buys_per_day": 333.3,
+      "avg_vol_per_day": 11150.27
+    },
+    "merges": {
+      "total": 562,
+      "no_merges": 562,
+      "yes_merges": 0,
+      "avg_merge_price": 0.0,
+      "total_merge_value": 285907.23
+    },
+    "timing": {
+      "median_gap_sec": 44,
+      "mean_gap_sec": 262,
+      "under_1s_pct": 0.0,
+      "under_5s_pct": 13.1,
+      "under_60s_pct": 57.0,
+      "over_1hr_pct": 0.9
+    },
+    "peak_hours": {
+      "20": 760,
+      "19": 556,
+      "15": 398
+    }
+  },
+  "buys_10K-50K": {
+    "label": "buys_10K-50K",
+    "total": 42016,
+    "counts": {
+      "buys": 40000,
+      "sells": 594,
+      "merges": 1422,
+      "other": 0
+    },
+    "sides": {
+      "buy_no": 39981,
+      "buy_no_pct": 100.0,
+      "buy_yes": 0,
+      "buy_yes_pct": 0.0,
+      "sell_count": 594,
+      "sell_rate_pct": 1.41
+    },
+    "volume": {
+      "total_buy_cost": 2635161.18,
+      "avg_cost": 65.9,
+      "total_sell_revenue": 72059.57
+    },
+    "size_pctiles": {
+      "p10": 1.33,
+      "p25": 5.13,
+      "p50": 21.67,
+      "p75": 81.82,
+      "p90": 192.37,
+      "p95": 274.89,
+      "p99": 462.98,
+      "max": 1919.36
+    },
+    "price_dist": {
+      "penny_0-10": {
+        "count": 3208,
+        "pct": 8.0,
+        "total": 22647.74,
+        "avg": 7.06,
+        "med": 2.41
+      },
+      "low_10-20": {
+        "count": 3864,
+        "pct": 9.7,
+        "total": 75596.44,
+        "avg": 19.56,
+        "med": 8.09
+      },
+      "mid_20-40": {
+        "count": 9432,
+        "pct": 23.6,
+        "total": 374673.17,
+        "avg": 39.72,
+        "med": 14.8
+      },
+      "mid_40-60": {
+        "count": 9430,
+        "pct": 23.6,
+        "total": 685658.8,
+        "avg": 72.71,
+        "med": 29.5
+      },
+      "fav_60-80": {
+        "count": 8504,
+        "pct": 21.3,
+        "total": 823767.49,
+        "avg": 96.87,
+        "med": 39.5
+      },
+      "NC_80-90": {
+        "count": 3639,
+        "pct": 9.1,
+        "total": 401015.85,
+        "avg": 110.2,
+        "med": 45.56
+      },
+      "heavyNC_90+": {
+        "count": 1923,
+        "pct": 4.8,
+        "total": 251801.69,
+        "avg": 130.94,
+        "med": 70.72
+      }
+    },
+    "accumulation": {
+      "total_markets": 4281,
+      "single_buy_pct": 17.3,
+      "2_buys": 560,
+      "3-5_buys": 1002,
+      "6-10_buys": 829,
+      "10+_buys": 1148,
+      "max_buys": 144
+    },
+    "date_range": {
+      "first": "2025-08-19",
+      "last": "2025-10-05",
+      "span_days": 47
+    },
+    "daily": {
+      "active_days": 48,
+      "avg_buys_per_day": 833.3,
+      "avg_vol_per_day": 54899.19
+    },
+    "merges": {
+      "total": 1422,
+      "no_merges": 1422,
+      "yes_merges": 0,
+      "avg_merge_price": 0.0,
+      "total_merge_value": 2996032.56
+    },
+    "timing": {
+      "median_gap_sec": 20,
+      "mean_gap_sec": 111,
+      "under_1s_pct": 0.0,
+      "under_5s_pct": 19.2,
+      "under_60s_pct": 76.2,
+      "over_1hr_pct": 0.3
+    },
+    "peak_hours": {
+      "19": 5710,
+      "20": 5014,
+      "18": 3898
+    }
+  },
+  "buys_50K+": {
+    "label": "buys_50K+",
+    "total": 1044598,
+    "counts": {
+      "buys": 979000,
+      "sells": 20683,
+      "merges": 44915,
+      "other": 0
+    },
+    "sides": {
+      "buy_no": 978736,
+      "buy_no_pct": 100.0,
+      "buy_yes": 0,
+      "buy_yes_pct": 0.0,
+      "sell_count": 20683,
+      "sell_rate_pct": 1.98
+    },
+    "volume": {
+      "total_buy_cost": 87547230.26,
+      "avg_cost": 89.52,
+      "total_sell_revenue": 17448202.65
+    },
+    "size_pctiles": {
+      "p10": 0.65,
+      "p25": 2.2,
+      "p50": 10.55,
+      "p75": 59.67,
+      "p90": 220.02,
+      "p95": 400.48,
+      "p99": 952.34,
+      "max": 64500.0
+    },
+    "price_dist": {
+      "penny_0-10": {
+        "count": 80255,
+        "pct": 8.2,
+        "total": 841746.54,
+        "avg": 10.49,
+        "med": 1.2
+      },
+      "low_10-20": {
+        "count": 84317,
+        "pct": 8.6,
+        "total": 2421637.34,
+        "avg": 28.72,
+        "med": 4.14
+      },
+      "mid_20-40": {
+        "count": 214014,
+        "pct": 21.9,
+        "total": 12124608.94,
+        "avg": 56.65,
+        "med": 6.8
+      },
+      "mid_40-60": {
+        "count": 255794,
+        "pct": 26.1,
+        "total": 25990772.1,
+        "avg": 101.61,
+        "med": 11.43
+      },
+      "fav_60-80": {
+        "count": 205800,
+        "pct": 21.0,
+        "total": 24881757.77,
+        "avg": 120.9,
+        "med": 16.74
+      },
+      "NC_80-90": {
+        "count": 80343,
+        "pct": 8.2,
+        "total": 12013938.88,
+        "avg": 149.53,
+        "med": 25.99
+      },
+      "heavyNC_90+": {
+        "count": 58477,
+        "pct": 6.0,
+        "total": 9272768.69,
+        "avg": 158.57,
+        "med": 36.83
+      }
+    },
+    "accumulation": {
+      "total_markets": 56424,
+      "single_buy_pct": 17.6,
+      "2_buys": 6226,
+      "3-5_buys": 11119,
+      "6-10_buys": 9038,
+      "10+_buys": 20113,
+      "max_buys": 1013
+    },
+    "date_range": {
+      "first": "2025-10-05",
+      "last": "2026-03-01",
+      "span_days": 147
+    },
+    "daily": {
+      "active_days": 148,
+      "avg_buys_per_day": 6614.9,
+      "avg_vol_per_day": 591535.34
+    },
+    "merges": {
+      "total": 44915,
+      "no_merges": 44912,
+      "yes_merges": 0,
+      "avg_merge_price": 0.0,
+      "total_merge_value": 133213323.98
+    },
+    "timing": {
+      "median_gap_sec": 6,
+      "mean_gap_sec": 18,
+      "under_1s_pct": 0.0,
+      "under_5s_pct": 50.0,
+      "under_60s_pct": 95.1,
+      "over_1hr_pct": 0.0
+    },
+    "peak_hours": {
+      "21": 95673,
+      "20": 88203,
+      "19": 74159
+    }
+  },
+  "evolution": {
+    "at_100_buys": {
+      "total_buys": 100,
+      "date": "2025-07-09",
+      "no_pct": 100.0,
+      "yes_pct": 0.0,
+      "med_cost": 6.2,
+      "p90_cost": 16.6,
+      "p99_cost": 19.0,
+      "max_cost": 19.0,
+      "cum_volume": 787.83,
+      "cum_merge_value": 1451.8,
+      "single_buy_pct": 7.7,
+      "sells_in_period": 0
+    },
+    "at_250_buys": {
+      "total_buys": 250,
+      "date": "2025-07-10",
+      "no_pct": 100.0,
+      "yes_pct": 0.0,
+      "med_cost": 6.6,
+      "p90_cost": 16.8,
+      "p99_cost": 19.2,
+      "max_cost": 20.8,
+      "cum_volume": 1927.22,
+      "cum_merge_value": 2212.18,
+      "single_buy_pct": 4.8,
+      "sells_in_period": 9
+    },
+    "at_500_buys": {
+      "total_buys": 500,
+      "date": "2025-07-13",
+      "no_pct": 100.0,
+      "yes_pct": 0.0,
+      "med_cost": 6.8,
+      "p90_cost": 17.4,
+      "p99_cost": 22.0,
+      "max_cost": 48.0,
+      "cum_volume": 4156.77,
+      "cum_merge_value": 8657.64,
+      "single_buy_pct": 21.6,
+      "sells_in_period": 24
+    },
+    "at_1000_buys": {
+      "total_buys": 1000,
+      "date": "2025-07-18",
+      "no_pct": 100.0,
+      "yes_pct": 0.0,
+      "med_cost": 8.0,
+      "p90_cost": 17.2,
+      "p99_cost": 39.0,
+      "max_cost": 86.0,
+      "cum_volume": 8667.92,
+      "cum_merge_value": 13486.73,
+      "single_buy_pct": 21.1,
+      "sells_in_period": 58
+    },
+    "at_2000_buys": {
+      "total_buys": 2000,
+      "date": "2025-07-24",
+      "no_pct": 100.0,
+      "yes_pct": 0.0,
+      "med_cost": 6.8,
+      "p90_cost": 18.8,
+      "p99_cost": 46.0,
+      "max_cost": 255.0,
+      "cum_volume": 18610.61,
+      "cum_merge_value": 36435.33,
+      "single_buy_pct": 20.9,
+      "sells_in_period": 107
+    },
+    "at_5000_buys": {
+      "total_buys": 5000,
+      "date": "2025-08-05",
+      "no_pct": 100.0,
+      "yes_pct": 0.0,
+      "med_cost": 10.0,
+      "p90_cost": 42.75,
+      "p99_cost": 84.0,
+      "max_cost": 255.0,
+      "cum_volume": 82596.08,
+      "cum_merge_value": 183488.72,
+      "single_buy_pct": 16.6,
+      "sells_in_period": 155
+    },
+    "at_10000_buys": {
+      "total_buys": 10000,
+      "date": "2025-08-19",
+      "no_pct": 100.0,
+      "yes_pct": 0.0,
+      "med_cost": 11.96,
+      "p90_cost": 66.0,
+      "p99_cost": 175.0,
+      "max_cost": 320.0,
+      "cum_volume": 249850.06,
+      "cum_merge_value": 469395.95,
+      "single_buy_pct": 14.7,
+      "sells_in_period": 585
+    },
+    "at_25000_buys": {
+      "total_buys": 25000,
+      "date": "2025-09-09",
+      "no_pct": 99.9,
+      "yes_pct": 0.1,
+      "med_cost": 15.0,
+      "p90_cost": 108.34,
+      "p99_cost": 356.25,
+      "max_cost": 1131.45,
+      "cum_volume": 1057180.72,
+      "cum_merge_value": 1211272.16,
+      "single_buy_pct": 15.4,
+      "sells_in_period": 1179
+    },
+    "at_50000_buys": {
+      "total_buys": 50000,
+      "date": "2025-10-05",
+      "no_pct": 100.0,
+      "yes_pct": 0.0,
+      "med_cost": 18.57,
+      "p90_cost": 168.0,
+      "p99_cost": 433.2,
+      "max_cost": 1919.36,
+      "cum_volume": 2885011.24,
+      "cum_merge_value": 3465428.51,
+      "single_buy_pct": 16.6,
+      "sells_in_period": 1179
+    },
+    "at_100000_buys": {
+      "total_buys": 100000,
+      "date": "2025-10-30",
+      "no_pct": 99.9,
+      "yes_pct": 0.1,
+      "med_cost": 20.7,
+      "p90_cost": 234.23,
+      "p99_cost": 767.69,
+      "max_cost": 3945.48,
+      "cum_volume": 8168962.72,
+      "cum_merge_value": 9120833.32,
+      "single_buy_pct": 16.9,
+      "sells_in_period": 1342
+    }
+  },
+  "bankroll_trajectory": [
+    {
+      "trade_num": 100,
+      "date": "2025-07-09",
+      "cum_cost": 728.06,
+      "cum_payouts": 1451.8,
+      "cum_sells": 0,
+      "net_profit": 723.74
+    },
+    {
+      "trade_num": 500,
+      "date": "2025-07-12",
+      "cum_cost": 3738.88,
+      "cum_payouts": 8251.45,
+      "cum_sells": 290.69,
+      "net_profit": 4803.26
+    },
+    {
+      "trade_num": 1000,
+      "date": "2025-07-17",
+      "cum_cost": 7599.21,
+      "cum_payouts": 11326.05,
+      "cum_sells": 2497.84,
+      "net_profit": 6224.68
+    },
+    {
+      "trade_num": 2000,
+      "date": "2025-07-22",
+      "cum_cost": 14617.59,
+      "cum_payouts": 24967.25,
+      "cum_sells": 3747.14,
+      "net_profit": 14096.8
+    },
+    {
+      "trade_num": 5000,
+      "date": "2025-08-02",
+      "cum_cost": 60675.3,
+      "cum_payouts": 143417.85,
+      "cum_sells": 7529.3,
+      "net_profit": 90271.85
+    },
+    {
+      "trade_num": 10000,
+      "date": "2025-08-16",
+      "cum_cost": 194129.71,
+      "cum_payouts": 450460.04,
+      "cum_sells": 21941.33,
+      "net_profit": 278271.66
+    },
+    {
+      "trade_num": 25000,
+      "date": "2025-09-06",
+      "cum_cost": 836793.29,
+      "cum_payouts": 1081922.39,
+      "cum_sells": 125872.3,
+      "net_profit": 371001.4
+    },
+    {
+      "trade_num": 50000,
+      "date": "2025-10-03",
+      "cum_cost": 2603716.63,
+      "cum_payouts": 3077559.92,
+      "cum_sells": 125872.3,
+      "net_profit": 599715.59
+    },
+    {
+      "trade_num": 100000,
+      "date": "2025-10-28",
+      "cum_cost": 7681677.53,
+      "cum_payouts": 8226105.85,
+      "cum_sells": 175313.11,
+      "net_profit": 719741.43
+    },
+    {
+      "trade_num": 250000,
+      "date": "2025-12-05",
+      "cum_cost": 21962959.49,
+      "cum_payouts": 34667681.76,
+      "cum_sells": 2941716.26,
+      "net_profit": 15646438.53
+    },
+    {
+      "trade_num": 500000,
+      "date": "2026-01-11",
+      "cum_cost": 44251940.77,
+      "cum_payouts": 71116413.91,
+      "cum_sells": 7873645.61,
+      "net_profit": 34738118.75
+    },
+    {
+      "trade_num": 1000000,
+      "date": "2026-02-17",
+      "cum_cost": 81694317.96,
+      "cum_payouts": 125756132.02,
+      "cum_sells": 15745937.43,
+      "net_profit": 59807751.49
+    }
+  ],
+  "first_yes": {
+    "buy_number": "NEVER",
+    "note": "100% NO through entire history"
+  },
+  "top_20_markets": [
+    {
+      "title": "Australian Open Men's: Carlos Alcaraz vs Alexander Zverev",
+      "buys": 514,
+      "total_cost": 166652.7
+    },
+    {
+      "title": "Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Bount",
+      "buys": 175,
+      "total_cost": 112353.96
+    },
+    {
+      "title": "Seahawks vs. Patriots",
+      "buys": 162,
+      "total_cost": 110534.12
+    },
+    {
+      "title": "Australian Open Men's: Carlos Alcaraz vs Alexander Zverev",
+      "buys": 825,
+      "total_cost": 110030.26
+    },
+    {
+      "title": "Counter-Strike: PARIVISION vs Astralis (BO3) - IEM Krakow Gr",
+      "buys": 323,
+      "total_cost": 101397.39
+    },
+    {
+      "title": "Falcons vs. Buccaneers",
+      "buys": 415,
+      "total_cost": 97005.12
+    },
+    {
+      "title": "Counter-Strike: Liquid vs NIP (BO3)",
+      "buys": 414,
+      "total_cost": 92122.62
+    },
+    {
+      "title": "Eagles vs. Chargers",
+      "buys": 684,
+      "total_cost": 88999.04
+    },
+    {
+      "title": "Eagles vs. Chargers",
+      "buys": 524,
+      "total_cost": 87514.77
+    },
+    {
+      "title": "Will Olympique Lyonnais win on 2026-02-15?",
+      "buys": 16,
+      "total_cost": 87388.42
+    },
+    {
+      "title": "Cowboys vs. Lions",
+      "buys": 361,
+      "total_cost": 79310.25
+    },
+    {
+      "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - PGL Cluj-Napoca",
+      "buys": 317,
+      "total_cost": 72781.43
+    },
+    {
+      "title": "Counter-Strike: TheMongolz vs B8 (BO3) - PGL Cluj-Napoca Gro",
+      "buys": 447,
+      "total_cost": 72380.01
+    },
+    {
+      "title": "Dallas Open: Marin Cilic vs Learner Tien",
+      "buys": 74,
+      "total_cost": 69532.37
+    },
+    {
+      "title": "Counter-Strike: Vitality vs TheMongolz (BO3) - PGL Cluj-Napo",
+      "buys": 308,
+      "total_cost": 67430.74
+    },
+    {
+      "title": "Ohio State vs. Indiana",
+      "buys": 323,
+      "total_cost": 66774.82
+    },
+    {
+      "title": "Will FC Barcelona win on 2026-02-12?",
+      "buys": 676,
+      "total_cost": 66331.19
+    },
+    {
+      "title": "Bears vs. Packers",
+      "buys": 205,
+      "total_cost": 65617.59
+    },
+    {
+      "title": "Counter-Strike: G2 vs PARIVISION (BO3) - PGL Cluj-Napoca Gro",
+      "buys": 208,
+      "total_cost": 64834.35
+    },
+    {
+      "title": "Counter-Strike: Gentle Mates vs Liquid (BO3) - BLAST Bounty ",
+      "buys": 271,
+      "total_cost": 63598.63
+    }
+  ],
+  "sell_deep": {
+    "total": 21862,
+    "rate_pct": 1.99,
+    "no_sells": 21862,
+    "yes_sells": 0,
+    "avg_price": 0.3019,
+    "med_price": 0.2077,
+    "price_pctiles": {
+      "p10": 0.0948,
+      "p50": 0.2077,
+      "p90": 0.6823
+    },
+    "total_revenue": 17574074.95
+  }
+}
